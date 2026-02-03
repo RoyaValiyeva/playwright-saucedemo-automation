@@ -6,7 +6,7 @@ A complete end-to-end test automation framework built with Playwright and Python
 
 This project demonstrates professional test automation practices for the SauceDemo e-commerce application. The framework includes 26 comprehensive UI tests covering critical user workflows including authentication, product browsing, shopping cart operations, and checkout processes.
 
-## 🛠Technologies Used
+## Technologies Used
 
 - **Playwright** - Modern web automation framework
 - **Python 3.14** - Programming language
